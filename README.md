@@ -1,4 +1,4 @@
-# desenmascara-me
+# Desenmascara.me
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-desenmascara-me is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://desenmascara.me/
+Desenmascara.me provides real‑time fraud detection and scam analysis for any website. Users can paste a link to receive risk signals, AI‑generated evidence, and detailed reports. It offers a free tier for quick checks and paid plans with API access, bulk feeds, and advanced intelligence for businesses. It aims to protect consumers and organizations from phishing, impersonation, and fraudulent domains.
+
+**Areas:** Fraud Detection · Scam Prevention · API · Security · Risk Intelligence
+
+## Desenmascara.me on APIs.io
+
+Everything profiled for Desenmascara.me is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/desenmascara-me/](https://apis.io/providers/desenmascara-me/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Desenmascara.me Domain Check API](https://apis.io/apis/desenmascara-me/desenmascara-me-domain-check-api/) — On-demand fraud analysis of any domain.
+- [Desenmascara.me Fraud Feed API](https://apis.io/apis/desenmascara-me/desenmascara-me-fraud-feed-api/) — Pull-based incremental feed of newly recorded verdicts (Startup+).
+- [Desenmascara.me Public API](https://apis.io/apis/desenmascara-me/desenmascara-me-public-api/) — Public, unauthenticated endpoints.
+- [Desenmascara.me Search API](https://apis.io/apis/desenmascara-me/desenmascara-me-search-api/) — Query the analyzed-domain corpus.
+- [Desenmascara.me Threat Intel API](https://apis.io/apis/desenmascara-me/desenmascara-me-threat-intel-api/) — Actor clustering across shared infrastructure (Startup+).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Desenmascara Me Agentic Access](https://apis.io/agentic-access/desenmascara-me/desenmascara-me-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [AnalysisResult](https://apis.io/schemas/desenmascara-me/desenmascara-me-analysis-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Desenmascara Me Context](https://apis.io/jsonld/desenmascara-me/desenmascara-me-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Desenmascara.me API Rules](https://apis.io/rules/desenmascara-me/desenmascara-me-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Desenmascara Me Authentication](https://apis.io/security/desenmascara-me/desenmascara-me-authentication/)
+- [Desenmascara Me Domain Security](https://apis.io/security/desenmascara-me/desenmascara-me-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Desenmascara Me Plans Pricing](https://apis.io/plans/desenmascara-me/desenmascara-me-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://desenmascara.me/)
+- [Documentation](https://desenmascara.me/api-feed)
+- [API reference](https://desenmascara.me/api-feed)
+- [Pricing](https://desenmascara.me/pro)
+- [Sign up](https://desenmascara.me/login)
+- [Support](https://desenmascara.me/contact)
+- [Terms of service](https://desenmascara.me/terms)
+- [Privacy policy](https://desenmascara.me/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.9** — developing · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 55.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 36.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/desenmascara-me/](https://apis.io/providers/desenmascara-me/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Desenmascara.me: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/desenmascara-me/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
